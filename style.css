@@ -1,0 +1,60 @@
+.branco {
+	border: 2px solid white
+}
+.linkbranco {
+	border: 2px solid white;
+	text-align: center;
+	padding: 5px;
+}
+.imagens {
+  margin-block: 30px;
+  padding: 15px;
+  border: 2px solid white;
+  text-align: center;
+}
+.blank {
+  color: black;
+  text-align: center;
+}
+body {
+	background-color: black;
+}
+h2 {
+	color: white;
+	text-align: center;
+}
+h4 {
+	color: white;
+	padding: 5px;
+  text-align: justify;
+}
+h6 {
+  color: white;
+  text-align:center;
+}
+pre {
+  text-align: justify-all;
+  color: white;
+}
+div.scrollmenu {
+  background-color: black;
+  overflow: auto;
+  white-space: nowrap;
+  text-align: center;
+  border: 2px solid white;
+  position: sticky;
+  top: 0;
+  }
+
+div.scrollmenu a {
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
+  }
+
+div.scrollmenu a:hover {
+  background-color: #D8D8D8;
+  transition: 0.5s ease, color 0.5s ease;
+  }

@@ -1,0 +1,54 @@
+Tutorial em Nota :P
+
+Olá novamente, Pedro. Se você abriu este documento, significa que você desistiu de tentar achar as chaves e passar pelas etapas sozinho, mesmo com todos os meus esforços para deixar o mais fácil possível (buuuuuuuu! >:(). 
+Como eu imaginei que pudesse acontecer, talvez você não conseguisse achar todas as chaves escondidas neste site ou os links para as etapas. Por isso, para que você não ficasse sem saber o que de fato era a mensagem que te escrevi, eu lancei este tutorial em forma de nota. 
+Aqui eu vou ditar passo a passo o que você deveria ter feito para achar cada uma das chaves e chegar em cada uma das etapas. Vamos começar? :D
+
+Etapa 2:
+Dentro da página da etapa 2, existe um link escondido para a página da etapa 3 no próprio texto (está sublinhado e tem título "link da etapa 3")
+
+Etapa 3:
+Na etapa 3, o link está escondido, pois este está na mesma cor do fundo. Para achá-lo, basta selecionar o primeiro espaço abaixo do container de texto e voi lá! Lá estará o link. 
+
+Etapa 4:
+Na etapa 4, não nenhum link ou algo do tipo. A única coisa que existe é a mensagem criptografada em cifra de Vigenère. Para descriptografar essa mensagem, são necessárias quatro chaves que escondi no site e que logo mais o ensinarei como encontrá-las. 
+A cifra de Vigenère pode ser descriptografada em qualquer site de criptografia em Vigenere, e todas as chaves estão criptografadas em cifra de Cesar, cujas chaves são todas 18. 
+As cifras de Cesar eu criptografei à mão, porque, no presente momento em que escrevo esta nota, estou sem internet :D. Então acessar um site de criptografia de cifras de Cesar é impensável.
+
+Chaves:
+As quatro chaves foram escondidas em cada uma das outras páginas presentes no menu ("Músicas", "Fotos", "Fontes" e "blank", respectivamente). Vou ensinar como chegar a cada uma delas, mas não vai demorar até que você perceba que a ordem das chaves está bagunçada. O segredo para descobrir a ordem correta está em organizar as chaves de forma que estas formem uma frase.
+
+- "MUSICA":
+A primeira chave que pode-se encontrar é "MUSICA", e ela está bastante visível na página "Músicas". Ao rolar até o final da página, existe uma pequena frase criptografada em cifra de Cesar, que diz: "MUSICA É A CHAVE PARA A ALMA". Se considerarmos apenas o início dessa frase, "MUSICA É A CHAVE", podemos deduzir que "MUSICA" é a chave. Essa sacada foi bastante previsível, mas vai que você nem percebeu :P.
+
+- "PEDRO":
+A segunda chave é possível se encontrar na página "Fotos". Esta também estava bastante visível na página, pois era a legenda de uma das fotos. Na mensagem, também criptografada em cifra de Cesar, dizia "O SEU NOME É A CHAVE PARA ME FAZER SUSPIRAR". É um pequeno enigma, assim como foi na chave anterior. Para encontrar a chave, podemos ser tão literais quanto na última chave. Se o seu nome é a chave, e seu nome é Pedro, então eu posso considerar que minha chave será "PEDRO".
+
+- "ESCUTAR":
+A próxima chave não foi nada interpretativa, mas possivelmente foi mais difícil de encontrar que as chaves anteriores. Ao entrar na página "Fontes", havia uma mensagem dizendo que não havia nada para ser visto ali e um emoticon de piscadela. Essa frase servia como uma pequena dica de que a mensagem talvez não estivesse visível. Ao selecionar o texto no espaço "vazio" do cabeçalho, encontramos a mensagem "Role a página e veja o que acontece ;)". Se você simplesmente rolar a página, nada acontece, mas se você rolar a página selecionando o texto, você chegará à chave, criptografada em cifra de Cesar na última linha. O que talvez possa acontecer, é que você não consiga selecionar a chave de primeira, porque esta está centralizada na página. Tente selecionar a última linha inteira, que você encontrará a chave.
+
+- "AMA":
+A última chave estava presente na página "blank", que é a página invisível. Primeiramente, para acessar essa página, você tem que deixar o cursor do mouse sobre o único espaço em branco selecionável, logo ao lado de "Fontes". Ao deixar o cursor sobre esse espaço "em branco, nos é revelado o nome da página (blank), e se clicar nesse ícone do menu, você é direcionado para uma página completamente "em branco". Como você já deve imaginar, usaremos o mesmo truque que utilizamos durante todo o jogo, que é o de selecionar as palavras escondidas na página. Ao fazer isso, encontraremos um texto criptografado em cifra de Cesar, que diz "ATENTE-SE AS INICIAIS DE CADA VERSO NELAS ENCONTRARA A RESPOSTA QUE TANTO PROCURAS.
+ANTES DE VIRAR-SE, CURVAR-SE E MORRER
+MARIA TORNOU-SE E VIU AGORA RESPLANDECER
+A HUMANIDADE QUE DIANTE DE SI ESMORECEU". Assim como diz na mensagem, devemos no atentar às iniciais de cada um dos versos do poema, que formam a palavra "AMA". Essa consiste na última chave a ser encontrada do site.
+
+Ordem das chaves:
+Como eu disse anteriormente, as chaves são encontradas de forma desordenada. Se você tiver conseguido encontrar cada uma delas, provavelmente conseguiu traduzir a mensagem por meio de tentativa e erro. Entretanto, não há necessidade para tal esforço, pois as chaves juntas formam uma frase, basta reorganizá-las.
+
+- Ordem original:
+
+MUSICA
+PEDRO
+ESCUTAR
+AMA
+
+- Ordem correta:
+PEDRO
+AMA
+ESCUTAR
+MUSICA
+
+Retornando assim a frase "Pedro ama escutar música" (que eu sei que é verdade ;3).
+
+Agora que eu já deixei o tutorial de como chegar à mensagem final e como encontrar cada uma das chaves (além de dizer com todas as letras quais são as chaves e a ordem correta delas), vou deixar que você descriptografe sozinho a mensagem final da etapa 4 (preferencialmente no "Site 112", tanto para cifra de Cesar, quanto para a de Vigenère). Essa eu quero que você descriptografe sozinho :3. Beijinhos e até mais ver!
